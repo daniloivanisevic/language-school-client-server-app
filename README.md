@@ -1,12 +1,16 @@
-**Language School — Client-Server Application
-**Desktop aplikacija za upravljanje jezičkom školom, razvijena u Javi korišćenjem socket programiranja.
-Funkcionalnosti
+# Language School — Client-Server Application
 
-Upravljanje učenicima (dodavanje, pregled, brisanje)
-Upravljanje kursevima i nastavnicima
+Desktop aplikacija za upravljanje jezičkom školom, razvijena u Javi korišćenjem socket programiranja.
 
-Tehnologije
+## Funkcionalnosti
 
-Java
-Java Sockets (TCP)
-Java Swing (GUI)
+- Upravljanje učenicima (dodavanje, pregled, brisanje)
+- Upravljanje kursevima i nastavnicima
+
+## Tehnologije
+
+- Java
+- Java Sockets (TCP)
+- Java Swing (GUI)
+
+
